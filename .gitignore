@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+private/
+profile/
+.research-tmp/
+.openai/
+*.pdf
+*.zip
